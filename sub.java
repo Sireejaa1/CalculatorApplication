@@ -1,1 +1,1 @@
-class sub{int i=5;}
+class sub{int i=10;}
